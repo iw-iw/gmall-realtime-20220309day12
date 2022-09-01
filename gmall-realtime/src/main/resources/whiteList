@@ -1,0 +1,2 @@
+cart_info,sink_table,pk,sink_columns,extends
+activity_info,sink_table,pk,sink_columns,extends
